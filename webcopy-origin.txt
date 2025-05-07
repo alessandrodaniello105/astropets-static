@@ -1,0 +1,884 @@
+Uri: https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\mc-cdn-images\template_images\branding_logo_text_dark_dtp.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\downloads.mailchimp.com\js\mc-validate.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\index.htm
+Content Type: text/html
+
+Uri: https://www.astropetsofficial.ilabserver.com/about-us/
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://www.astropetsofficial.ilabserver.com/astropets_intro/
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\astropets_intro\index.htm
+Content Type: text/html
+
+Uri: https://www.astropetsofficial.ilabserver.com/comments/feed/
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/community/
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\community\index.htm
+Content Type: text/html
+
+Uri: https://www.astropetsofficial.ilabserver.com/feed/
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/home/feed/
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\home\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/privacy-policy/
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://www.astropetsofficial.ilabserver.com/privacy-policy/feed/
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\privacy-policy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/terms-conditions/
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\terms-conditions\index.htm
+Content Type: text/html
+
+Uri: https://www.astropetsofficial.ilabserver.com/white-paper/
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\white-paper\index.htm
+Content Type: text/html
+
+Uri: https://www.astropetsofficial.ilabserver.com/work-with-us/
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\work-with-us\index.htm
+Content Type: text/html
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/plugins/astropets/js/astropets.js?ver=6.8.1
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\plugins\astropets\js\astropets.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.4
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.4
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.4
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/plugins/cookie-law-info/lite/frontend/js/script.min.js?ver=3.0.8
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\plugins\cookie-law-info\lite\frontend\js\script.min.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/plugins/mousewheel-smooth-scroll/js/SmoothScroll.min.js?ver=1.4.10
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\plugins\mousewheel-smooth-scroll\js\SmoothScroll.min.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/css/custom.css?ver=3.0.25
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\css\custom.css
+Content Type: text/css
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/css/img/ap_bg.webm
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\css\img\ap_bg.webm
+Content Type: video/webm
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/css/img/ap_bg_mask.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\css\img\ap_bg_mask.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/css/img/ap_logo_icon.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\css\img\ap_logo_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/css/img/noise-transparent.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\css\img\noise-transparent.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/css/theme.1.css?ver=1718011561
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\css\theme.1.css
+Content Type: text/css
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Bold.ttf
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Bold.woff
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Bold.woff
+Content Type: font/woff
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Bold.woff2
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Extralight.ttf
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Extralight.ttf
+Content Type: font/ttf
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Extralight.woff
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Extralight.woff
+Content Type: font/woff
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Extralight.woff2
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Extralight.woff2
+Content Type: font/woff2
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Light.ttf
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Light.ttf
+Content Type: font/ttf
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Light.woff
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Light.woff
+Content Type: font/woff
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Light.woff2
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Light.woff2
+Content Type: font/woff2
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Medium.ttf
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Medium.woff
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Medium.woff
+Content Type: font/woff
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Medium.woff2
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Regular.ttf
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Regular.woff
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Regular.woff
+Content Type: font/woff
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Regular.woff2
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Semibold.ttf
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Semibold.ttf
+Content Type: font/ttf
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Semibold.woff
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Semibold.woff
+Content Type: font/woff
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Semibold.woff2
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Variable.ttf
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Variable.ttf
+Content Type: font/ttf
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Variable.woff
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Variable.woff
+Content Type: font/woff
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/ClashDisplay-Variable.woff2
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\ClashDisplay-Variable.woff2
+Content Type: font/woff2
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/dumbnerd.ttf
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\dumbnerd.ttf
+Content Type: font/ttf
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/font-0e358389.woff2
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\font-0e358389.woff2
+Content Type: font/woff2
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/font-63c657a8.woff2
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\font-63c657a8.woff2
+Content Type: font/woff2
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/font-ba709d74.woff2
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\font-ba709d74.woff2
+Content Type: font/woff2
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/fonts/Hsop-Regular.otf
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\fonts\Hsop-Regular.otf
+Content Type: font/ttf
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/js/custom.js?ver=3.0.25
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/js/gsap/gsap.min.js?ver=6.8.1
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\js\gsap\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/js/gsap/ScrollTrigger.min.js?ver=6.8.1
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\js\gsap\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/js/intersection-observer.js?ver=6.8.1
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\js\intersection-observer.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme-astropets/js/SplitType.min.js?ver=6.8.1
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme-astropets\js\SplitType.min.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/01/Group-24-011f0ea5.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\01\Group-24-011f0ea5.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/03/WACHTER-BACKGROUND-Medie-03a85783.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\03\WACHTER-BACKGROUND-Medie-03a85783.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/05/jurassic_2-scaled-0567a207.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\05\jurassic_2-scaled-0567a207.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/06/dystopian-1-063eddf6.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\06\dystopian-1-063eddf6.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/08/xenozoic-1-08dfe0b1.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\08\xenozoic-1-08dfe0b1.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/08/XENOZOIC-BACKGROUND-Medie-0884ec09.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\08\XENOZOIC-BACKGROUND-Medie-0884ec09.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/0b/Dilophosaurus-0b08bb11.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\0b\Dilophosaurus-0b08bb11.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/0f/common_text-0f95f792.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\0f\common_text-0f95f792.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/11/Dilophosaurus-115a1388.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\11\Dilophosaurus-115a1388.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/15/jurassic_3-scaled-153862ec.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\15\jurassic_3-scaled-153862ec.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/1c/mystic-1-1c5ff93d.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\1c\mystic-1-1c5ff93d.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/1f/epic-1f0bb4d0.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\1f\epic-1f0bb4d0.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/21/common-21e7a410.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\21\common-21e7a410.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/26/common-260869f9.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\26\common-260869f9.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/30/legendary-303b788e.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\30\legendary-303b788e.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/31/legendary-31b73117.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\31\legendary-31b73117.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/32/common_text-32053b21.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\32\common_text-32053b21.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/38/JURASSIC-BACKGROUND-Medie-38a99fb6.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\38\JURASSIC-BACKGROUND-Medie-38a99fb6.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/38/team_4-38e5a311.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\38\team_4-38e5a311.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/3c/team_1-3cb8c308.jpeg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\3c\team_1-3cb8c308.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/3f/jurassic_3-scaled-3fe57b63.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\3f\jurassic_3-scaled-3fe57b63.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/41/team_3-411727a9.jpeg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\41\team_3-411727a9.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/42/team_2-425499b4.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\42\team_2-425499b4.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/43/alpha-435ec0f3.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\43\alpha-435ec0f3.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/46/epic-467cd9b0.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\46\epic-467cd9b0.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/46/jurassic-1-46887553.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\46\jurassic-1-46887553.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/47/Dodo-47c93139.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\47\Dodo-47c93139.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/4a/jurassic_2-scaled-4a353e84.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\4a\jurassic_2-scaled-4a353e84.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/4e/MYSTIC-BACKGROUND-Medie-4e36c543.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\4e\MYSTIC-BACKGROUND-Medie-4e36c543.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/4f/common-4fc82813.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\4f\common-4fc82813.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/54/JURASSIC-BACKGROUND-Medie-54fe0f7a.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\54\JURASSIC-BACKGROUND-Medie-54fe0f7a.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/57/Allosaurus-5751479e.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\57\Allosaurus-5751479e.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/57/Dodo-5765f425.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\57\Dodo-5765f425.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/58/rare-5899dad3.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\58\rare-5899dad3.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/5e/legendary-5e488bc2.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\5e\legendary-5e488bc2.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/5f/team_3-5f6dd23b.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\5f\team_3-5f6dd23b.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/60/jurassic_2-scaled-60e8270b.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\60\jurassic_2-scaled-60e8270b.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/61/Allosaurus-61abef99.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\61\Allosaurus-61abef99.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/61/MYSTIC-BACKGROUND-Medie-61035eaa.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\61\MYSTIC-BACKGROUND-Medie-61035eaa.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/62/dystopian-1-627ec3af.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\62\dystopian-1-627ec3af.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/64/T-Rex-6405a341.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\64\T-Rex-6405a341.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/65/Dodo-658d18db.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\65\Dodo-658d18db.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/66/alpha_text-66007a32.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\66\alpha_text-66007a32.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/68/jurassic_3-scaled-68fdca49.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\68\jurassic_3-scaled-68fdca49.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/6a/Allosaurus-6aeee3b8.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\6a\Allosaurus-6aeee3b8.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/6b/Dimorphodon-6b90d37d.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\6b\Dimorphodon-6b90d37d.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/6d/alpha_text-6d2074d4.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\6d\alpha_text-6d2074d4.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/71/wachter-1-716efc6b.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\71\wachter-1-716efc6b.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/72/Dimorphodon-72036511.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\72\Dimorphodon-72036511.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/75/epic_text-75b3b90c.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\75\epic_text-75b3b90c.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/79/DYSTOPIAN-BACKGROUND-Medie-79e738e9.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\79\DYSTOPIAN-BACKGROUND-Medie-79e738e9.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/7f/rare_text-7f2d3850.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\7f\rare_text-7f2d3850.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/85/legendary_text-85adf9e4.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\85\legendary_text-85adf9e4.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/85/rare-8512b9d4.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\85\rare-8512b9d4.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/87/team_2-879d232e.jpeg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\87\team_2-879d232e.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/8a/rare_text-8a5e08e7.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\8a\rare_text-8a5e08e7.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/8c/alpha-8cbfe3b4.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\8c\alpha-8cbfe3b4.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/8f/team_3-8f9de11c.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\8f\team_3-8f9de11c.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/96/epic_text-966703b8.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\96\epic_text-966703b8.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/98/epic-98804cdc.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\98\epic-98804cdc.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/9f/jurassic_3-scaled-9f0768a7.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\9f\jurassic_3-scaled-9f0768a7.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/ac/Group-24-acf6507e.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\ac\Group-24-acf6507e.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/b0/rare_text-b08e48af.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\b0\rare_text-b08e48af.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/b0/team_1-b0b4205a.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\b0\team_1-b0b4205a.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/b4/Dilophosaurus-b4c64077.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\b4\Dilophosaurus-b4c64077.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/b4/XENOZOIC-BACKGROUND-Medie-b444fa17.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\b4\XENOZOIC-BACKGROUND-Medie-b444fa17.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/bc/xenozoic-1-bcbdbb3b.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\bc\xenozoic-1-bcbdbb3b.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/bf/WACHTER-BACKGROUND-Medie-bf68419d.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\bf\WACHTER-BACKGROUND-Medie-bf68419d.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/c0/jurassic_3-scaled-c06e0ede.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\c0\jurassic_3-scaled-c06e0ede.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/c5/DYSTOPIAN-BACKGROUND-Medie-c5272ef7.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\c5\DYSTOPIAN-BACKGROUND-Medie-c5272ef7.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/c6/legendary_text-c667c83d.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\c6\legendary_text-c667c83d.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/c6/team_4-c6a71169.jpeg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\c6\team_4-c6a71169.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/c8/rare-c8d25fb9.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\c8\rare-c8d25fb9.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/cb/alpha_text-cb7c3ed0.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\cb\alpha_text-cb7c3ed0.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/d0/team_2-d0dcdddc.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\d0\team_2-d0dcdddc.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/d3/Dimorphodon-d37c1601.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\d3\Dimorphodon-d37c1601.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/d4/Dimorphodon-d45e281b.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\d4\Dimorphodon-d45e281b.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/d5/Allosaurus-d52018de.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\d5\Allosaurus-d52018de.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/d7/mystic-1-d7f93f35.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\d7\mystic-1-d7f93f35.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/db/T-Rex-dbcb5827.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\db\T-Rex-dbcb5827.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/db/XENOZOIC-BACKGROUND-Medie-dbb8b3ba.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\db\XENOZOIC-BACKGROUND-Medie-dbb8b3ba.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/dc/common_text-dcffaa63.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\dc\common_text-dcffaa63.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/dd/epic_text-dd056bd1.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\dd\epic_text-dd056bd1.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/df/DYSTOPIAN-BACKGROUND-Medie-df9e0fa3.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\df\DYSTOPIAN-BACKGROUND-Medie-df9e0fa3.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/e4/team_1-e4b4fde3.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\e4\team_1-e4b4fde3.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/e5/T-Rex-e56c430f.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\e5\T-Rex-e56c430f.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/e7/jurassic-1-e749fec8.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\e7\jurassic-1-e749fec8.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/e8/JURASSIC-BACKGROUND-Medie-e83e1964.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\e8\JURASSIC-BACKGROUND-Medie-e83e1964.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/eb/alpha-eb692e1f.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\eb\alpha-eb692e1f.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/ec/T-Rex-ec604844.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\ec\T-Rex-ec604844.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/ee/WACHTER-BACKGROUND-Medie-ee3ebadd.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\ee\WACHTER-BACKGROUND-Medie-ee3ebadd.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/f2/MYSTIC-BACKGROUND-Medie-f2f6d35d.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\f2\MYSTIC-BACKGROUND-Medie-f2f6d35d.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/f8/Dodo-f807ca5f.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\f8\Dodo-f807ca5f.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/f9/legendary_text-f9a583ee.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\f9\legendary_text-f9a583ee.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/fb/Dilophosaurus-fbebad81.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\fb\Dilophosaurus-fbebad81.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/fb/jurassic_2-scaled-fb07fdbb.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\fb\jurassic_2-scaled-fb07fdbb.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/fc/jurassic_2-scaled-fc905f76.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\fc\jurassic_2-scaled-fc905f76.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/fc/team_4-fc0dd29a.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\fc\team_4-fc0dd29a.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/cache/fc/wachter-1-fc3f3c78.webp
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\cache\fc\wachter-1-fc3f3c78.webp
+Content Type: 
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/js/theme.js?ver=3.0.25
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\js\theme.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/vendor/assets/uikit-themes/master-circle/images/accordion-close.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\vendor\assets\uikit-themes\master-circle\images\accordion-close.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/vendor/assets/uikit-themes/master-circle/images/accordion-open.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\vendor\assets\uikit-themes\master-circle\images\accordion-open.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/vendor/assets/uikit-themes/master-circle/images/breadcrumb-divider.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\vendor\assets\uikit-themes\master-circle\images\breadcrumb-divider.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/vendor/assets/uikit-themes/master-circle/images/button-text-arrow.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\vendor\assets\uikit-themes\master-circle\images\button-text-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/vendor/assets/uikit-themes/master-circle/images/styles/dark-turquoise/divider-icon.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\vendor\assets\uikit-themes\master-circle\images\styles\dark-turquoise\divider-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/vendor/assets/uikit-themes/master/images/mask-default-image.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\vendor\assets\uikit-themes\master\images\mask-default-image.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/vendor/assets/uikit/dist/js/uikit-icons.min.js?ver=3.0.25
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\vendor\assets\uikit\dist\js\uikit-icons.min.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/themes/yootheme/vendor/assets/uikit/dist/js/uikit.min.js?ver=3.0.25
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\themes\yootheme\vendor\assets\uikit\dist\js\uikit.min.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/00a_fire.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\00a_fire.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/00b_fire.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\00b_fire.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/00_fire.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\00_fire.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/01a_water.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\01a_water.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/01b_water.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\01b_water.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/01_water.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\01_water.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/02a_ice.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\02a_ice.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/02b_ice.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\02b_ice.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/02_ice.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\02_ice.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/03a_ground.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\03a_ground.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/03b_ground.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\03b_ground.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/03_ground.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\03_ground.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/04a_air.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\04a_air.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/04b_air.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\04b_air.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/04_air.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\04_air.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/ap_logo.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\ap_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/Favicon.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\Favicon.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/Favicon.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\Favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/vhor_logo.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\vhor_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/01/vhor_logo_negative.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\01\vhor_logo_negative.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/02/05a_elemental-1.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\02\05a_elemental-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/02/05_elemental.svg
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\02\05_elemental.svg
+Content Type: image/svg+xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/02/Apple_Favicon.png
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\02\Apple_Favicon.png
+Content Type: image/png
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/03/intro_video_AP.webm
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\03\intro_video_AP.webm
+Content Type: video/webm
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/2023/03/Jurassic-Video-Low.webm
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\2023\03\Jurassic-Video-Low.webm
+Content Type: video/webm
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/wpmss/wpmss.min.js?ver=1672246713
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\wpmss\wpmss.min.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-content/uploads/wpmss/wpmssab.min.js?ver=1672246713
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-content\uploads\wpmss\wpmssab.min.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.1
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.astropetsofficial.ilabserver.com%2F
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.astropetsofficial.ilabserver.com%2F&format=xml
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.astropetsofficial.ilabserver.com%2Fabout-us%2F
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.astropetsofficial.ilabserver.com%2Fabout-us%2F&format=xml
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.astropetsofficial.ilabserver.com%2Fastropets_intro%2F
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.astropetsofficial.ilabserver.com%2Fastropets_intro%2F&format=xml
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.astropetsofficial.ilabserver.com%2Fcommunity%2F
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.astropetsofficial.ilabserver.com%2Fcommunity%2F&format=xml
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.astropetsofficial.ilabserver.com%2Fprivacy-policy%2F
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.astropetsofficial.ilabserver.com%2Fprivacy-policy%2F&format=xml
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.astropetsofficial.ilabserver.com%2Fterms-conditions%2F
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.astropetsofficial.ilabserver.com%2Fterms-conditions%2F&format=xml
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.astropetsofficial.ilabserver.com%2Fwhite-paper%2F
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.astropetsofficial.ilabserver.com%2Fwhite-paper%2F&format=xml
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.astropetsofficial.ilabserver.com%2Fwork-with-us%2F
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.astropetsofficial.ilabserver.com%2Fwork-with-us%2F&format=xml
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/wp/v2/pages/1136
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\wp\v2\pages\1136
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/wp/v2/pages/1152
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\wp\v2\pages\1152
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/wp/v2/pages/173
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\wp\v2\pages\173
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/wp/v2/pages/176
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\wp\v2\pages\176
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/wp/v2/pages/2
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/wp/v2/pages/206
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\wp\v2\pages\206
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/wp/v2/pages/3
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\wp\v2\pages\3
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/wp-json/wp/v2/pages/774
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\wp-json\wp\v2\pages\774
+Content Type: application/json
+
+Uri: https://www.astropetsofficial.ilabserver.com/xmlrpc.php?rsd
+File Name: C:\siti-gallo-portfolio\-- cyotek\astropets8\www.astropetsofficial.ilabserver.com\xmlrpc.php
+Content Type: text/xml
+
